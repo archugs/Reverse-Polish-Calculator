@@ -1,0 +1,5 @@
+Implementation of Reverse Polish Calculator using stacks.
+Usage:
+? to read a number
++, - , *, / arithmetic operations
+= print result of number
